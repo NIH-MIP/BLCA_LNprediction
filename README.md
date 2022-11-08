@@ -6,12 +6,5 @@ repository of code used for Harmon, Sanford et al "Multi-resolution Application 
 
 
 
-PLEASE NOTE THIS IS UNDER CONSTRUCTION, FULL USER DETAILS AND DEPENDENCY GUIDE IS BEING CREATED
-
-
-
-
-
-
 
 
